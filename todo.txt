@@ -1,0 +1,12 @@
+Todo List:
+
+* Figure out basic bot structure
+
+* Make joke dispenser
+* Make quote dispenser
+
+* Make dice thrower 
+
+* Make tictactoe
+
+* Make hangman ==> the wheel of fortune
